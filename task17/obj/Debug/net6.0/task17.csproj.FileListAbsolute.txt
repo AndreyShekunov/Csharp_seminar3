@@ -1,0 +1,15 @@
+G:\GB\C#\Seminars\seminar3\task17\bin\Debug\net6.0\task17.exe
+G:\GB\C#\Seminars\seminar3\task17\bin\Debug\net6.0\task17.deps.json
+G:\GB\C#\Seminars\seminar3\task17\bin\Debug\net6.0\task17.runtimeconfig.json
+G:\GB\C#\Seminars\seminar3\task17\bin\Debug\net6.0\task17.dll
+G:\GB\C#\Seminars\seminar3\task17\bin\Debug\net6.0\task17.pdb
+G:\GB\C#\Seminars\seminar3\task17\obj\Debug\net6.0\task17.csproj.AssemblyReference.cache
+G:\GB\C#\Seminars\seminar3\task17\obj\Debug\net6.0\task17.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Seminars\seminar3\task17\obj\Debug\net6.0\task17.AssemblyInfoInputs.cache
+G:\GB\C#\Seminars\seminar3\task17\obj\Debug\net6.0\task17.AssemblyInfo.cs
+G:\GB\C#\Seminars\seminar3\task17\obj\Debug\net6.0\task17.csproj.CoreCompileInputs.cache
+G:\GB\C#\Seminars\seminar3\task17\obj\Debug\net6.0\task17.dll
+G:\GB\C#\Seminars\seminar3\task17\obj\Debug\net6.0\refint\task17.dll
+G:\GB\C#\Seminars\seminar3\task17\obj\Debug\net6.0\task17.pdb
+G:\GB\C#\Seminars\seminar3\task17\obj\Debug\net6.0\task17.genruntimeconfig.cache
+G:\GB\C#\Seminars\seminar3\task17\obj\Debug\net6.0\ref\task17.dll

@@ -2,7 +2,7 @@
 // Написать метод для разворота массива,
 // не используя память под дополнительный массив
 
-int[] ArrayRev(int[] array) // метод разворота массива
+void ArrayRev(int[] array) // метод разворота массива
 {
     for (int i = 0; i < array.Length / 2; i++)
     {
@@ -10,7 +10,6 @@ int[] ArrayRev(int[] array) // метод разворота массива
          array[i] = array[array.Length - 1 - i];
          array[array.Length - 1 - i] = temp;
     }
-    return array;
 }
 
 void PrintArray(int[] array) // метод вывода массива в терминал в строку
